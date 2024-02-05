@@ -21,3 +21,12 @@ body {
   border-radius: 12rem;
   height: 4vh;
 }
+
+a {
+  position: fixed;
+  top: 95wh;
+}
+
+footer {
+  text-align: center;
+}
